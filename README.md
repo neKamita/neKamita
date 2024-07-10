@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neKamita
+- 👋 Hi, I’m @cdy
 - 👀 I’m interested in Java and Spring
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on anything
