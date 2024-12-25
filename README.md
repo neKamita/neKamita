@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5865F2&width=435&lines=Hi+👋+I'm+Bekhruz;Backend+Developer" alt="Typing SVG" />
 </div>
+
+About Me 🚀
 public class AboutMe {
     // Personal Details
     private final String name = "Bekhruz Tulkinov";
@@ -35,6 +37,8 @@ public class AboutMe {
         return "I turn coffee ☕ into code </>";
     }
 }
+
+
 Tech Stack 🛠️
 Languages and Frameworks
 Show Image
