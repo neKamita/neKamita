@@ -1,5 +1,17 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5865F2&width=435&lines=Hi+👋+I'm+Behruz;Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5865F2&width=435&lines=Hi+👋+I'm+Bekhruz;Backend+Developer" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/your_telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </div>
 
 ## About Me 🚀
@@ -7,7 +19,7 @@
 ```java
 public class AboutMe {
     // Personal Details
-    private final String name = "Behruz To`lqinov";
+    private final String name = "Bekhruz Tulkinov";
     private final String role = "Backend Developer";
     private final String location = "Uzbekistan";
 
@@ -41,6 +53,10 @@ public class AboutMe {
 }
 ```
 
+## 💻 My Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=neKamita&theme=react-dark&hide_border=true&area=true)
+
 ## Tech Stack 🛠️
 
 ### Languages and Frameworks
@@ -57,12 +73,34 @@ public class AboutMe {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Java         16 hrs 40 mins  ███████████░░░░░░░░  68.35%
+SQL          4 hrs 23 mins   ██░░░░░░░░░░░░░░░░░  18.02%
+XML          2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░   9.05%
+YAML         52 mins         ░░░░░░░░░░░░░░░░░░░   3.58%
+Properties   14 mins         ░░░░░░░░░░░░░░░░░░░   1.00%
+```
+<!--END_SECTION:waka-->
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=neKamita&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## GitHub Stats 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neKamita&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
+## 🎯 Current Goals
+
+- 🔭 Master Spring Cloud and Microservices Architecture
+- 🌱 Deep dive into System Design patterns
+- 👯 Contribute to open source projects
+- 📚 Write technical blogs and documentation
 
 ## Let's Connect! 🤝
 
@@ -75,6 +113,13 @@ public class AboutMe {
 </div>
 
 ---
+
+### 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Microservices Architecture](link-to-your-blog)
+- [Best Practices in Spring Boot Development](link-to-your-blog)
+- [Advanced Java Concepts Every Developer Should Know](link-to-your-blog)
+<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
