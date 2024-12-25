@@ -1,15 +1,38 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5865F2&width=435&lines=Hi+👋+I'm+Bekhruz;Backend+Developer" alt="Typing SVG" />
 </div>
-About Me 🚀
-javaCopypublic class AboutMe {
+public class AboutMe {
+    // Personal Details
     private final String name = "Bekhruz Tulkinov";
     private final String role = "Backend Developer";
-    private final String[] currentlyLearning = {"Spring Boot", "Microservices", "System Design"};
-    private final String[] interests = {"Java", "Spring", "Backend Development", "Cloud Technologies"};
-    
+    private final String location = "Uzbekistan";
+
+    // Current Focus
+    private final String[] currentlyLearning = {
+        "Spring Boot",
+        "Microservices",
+        "System Design",
+        "Cloud Architecture"
+    };
+
+    // Technical Interests
+    private final String[] interests = {
+        "Java Development",
+        "Spring Framework",
+        "Backend Systems",
+        "Cloud Technologies",
+        "Database Design"
+    };
+
+    // Career Goals
+    private final String objective = "Building robust and scalable backend solutions";
+
     public String getMessage() {
-        return "Let's collaborate and build something amazing together! 💻";
+        return "Let's create something extraordinary together! 💻";
+    }
+
+    public String getFunFact() {
+        return "I turn coffee ☕ into code </>";
     }
 }
 Tech Stack 🛠️
