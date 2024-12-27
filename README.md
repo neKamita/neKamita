@@ -92,8 +92,8 @@ public class FullStackDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=tokyonight&hide=css" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=tokyonight&hide=css" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=tokyonight&hide=css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neKamita&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 ## 🎯 Current Goals
