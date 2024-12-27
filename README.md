@@ -106,16 +106,16 @@ public class FullStackDeveloper {
 
 ## 🌟 Featured Projects
 
-### Full Stack E-Commerce Platform
-- Built with React, Spring Boot, and PostgreSQL
+### Full Stack Monitoring Website (Icma.uz)
+- Built with Python Django, and PostgreSQL
 - Implemented secure payment processing
 - Mobile-responsive design with Material UI
 - RESTful API architecture
 
-### Real-Time Chat Application
+### Real-Time Telegram Game Bot (CATCH RSG)
 - Developed using WebSocket protocol
-- Frontend in React with TypeScript
-- Backend in Spring Boot
+- Frontend in HTML,CSS,JS
+- Backend in Python Django
 - MongoDB for message storage
 
 ## Let's Connect! 🤝
