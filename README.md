@@ -14,6 +14,9 @@
   </a>
 </div>
 
+
+<img src="https://raw.githubusercontent.com/neKamita/neKamita/output/snake.svg" alt="Snake animation" />
+
 ## About Me 🚀
 
 ```java
