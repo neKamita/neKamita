@@ -129,7 +129,7 @@ public class FullStackDeveloper {
 
 ## Let's Connect! 🤝
 
-- 🌐 Portfolio: [Visit My Website](https://tulkinov-bekhruz-resume.netlify.app/)
+- 🌐 Portfolio: [Visit My Website](https://tulkinov-behruz-resume.netlify.app/)
 - 💼 Open for Full Stack Development opportunities
 - 📫 How to reach me: Check out my portfolio website
 
