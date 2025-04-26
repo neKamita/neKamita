@@ -1,5 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Behruz+;I+am+Full+Stack+Dev)](https://git.io/typing-svg)
 
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Behruz+;I+am+Full+Stack+Dev)](https://git.io/typing-svg)
+</div>
 <div align="center">
   <a href="mailto:nationalub@gmaim.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
