@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&margin-left=550px&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Behruz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Behruz)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="mailto:nationalub@gmaim.com">
@@ -13,13 +12,13 @@
   </a>
 </div>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/neKamita/neKamita/output/github-snake.svg" />
+  </picture>
+</div>
 
 ## About Me 🚀
 
@@ -103,7 +102,6 @@ public class FullStackDeveloper {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neKamita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=css" height="150" alt="languages graph" />
 </div>
 
-
 ## 🎯 Current Goals
 
 - 🔭 Mastering Full Stack Development with React and Spring Boot
@@ -128,9 +126,13 @@ public class FullStackDeveloper {
 
 ## Let's Connect! 🤝
 
+<div align="center">
+  
 - 🌐 Portfolio: [Visit My Website](https://tulkinov-behruz-resume.netlify.app/)
 - 💼 Open for Full Stack Development opportunities
 - 📫 How to reach me: Check out my portfolio website
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=neKamita&color=blueviolet" alt="Profile Views" />
