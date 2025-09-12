@@ -102,10 +102,37 @@ public class FullStackDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neKamita&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neKamita&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=css" height="150" alt="languages graph" />
+  
+### 🔥 My Stats
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neKamita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </div>
 
+<div align="center">
+  
+### 🔥 My Contribution Streak
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=tokyonight" alt="neKamita's streak"/>
+
+</div>
+
+<div align="center">
+  
+### ⚡ Recent Activity Graph
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neKamita&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Profile Trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=neKamita&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 ## 🎯 Current Goals
 
 - 🔭 Mastering Full Stack Development with React and Spring Boot
