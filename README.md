@@ -133,6 +133,8 @@ public class FullStackDeveloper {
 <img src="https://github-profile-trophy.vercel.app/?username=neKamita&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
+
+
 ## 🎯 Current Goals
 
 - 🔭 Mastering Full Stack Development with React and Spring Boot
