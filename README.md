@@ -98,40 +98,16 @@ public class FullStackDeveloper {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-### 🔥 My Stats
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neKamita&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-### 🔥 My Contribution Streak
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=tokyonight" alt="neKamita's streak"/>
-
-</div>
-
-<div align="center">
-  
-### ⚡ Recent Activity Graph
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neKamita&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Profile Trophy
-
-<img src="https://github-profile-trophy.vercel.app/?username=neKamita&theme=tokyonight&no-frame=true&row=1&column=7" />
-
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neKamita&theme=gruvbox">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neKamita&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neKamita&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neKamita&theme=gruvbox">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neKamita&theme=gruvbox&utcOffset=-8">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false">
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=gruvbox">
 </div>
 
 
