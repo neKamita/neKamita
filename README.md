@@ -98,18 +98,28 @@ public class FullStackDeveloper {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neKamita&theme=gruvbox">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neKamita&theme=gruvbox">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neKamita&theme=gruvbox">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neKamita&theme=gruvbox">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neKamita&theme=gruvbox&utcOffset=-8">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false">
-  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=gruvbox">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neKamita&theme=dracula">
 </div>
 
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neKamita&theme=dracula">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neKamita&theme=dracula">
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neKamita&theme=dracula">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neKamita&theme=dracula&utcOffset=-8">
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula">
+</div>
 
 ## 🎯 Current Goals
 
