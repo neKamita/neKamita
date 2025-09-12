@@ -113,12 +113,12 @@ public class FullStackDeveloper {
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neKamita&theme=dracula">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neKamita&theme=dracula&utcOffset=-8">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neKamita&theme=dracula&utcOffset=5">
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=false&include_all_commits=false&count_private=false">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=false&include_all_commits=false&count_private=false">
+  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula">
 </div>
 
 ## 🎯 Current Goals
