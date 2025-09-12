@@ -99,7 +99,6 @@ public class FullStackDeveloper {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -117,8 +116,7 @@ public class FullStackDeveloper {
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=false&include_all_commits=false&count_private=false">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=false&include_all_commits=false&count_private=false">
 </div>
 
 ## 🎯 Current Goals
