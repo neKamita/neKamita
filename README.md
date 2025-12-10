@@ -116,7 +116,7 @@ public class FullStackDeveloper {
 </div>
 
 <div align="center">
-<img width="100%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DneKamita%26theme%3Ddracula%26show_icons%3Dtrue%26hide_border%3Dfalse">
+<img width="100%" src="[https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DneKamita%26theme%3Ddracula%26show_icons%3Dtrue%26hide_border%3Dfalse](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DneKamita%26theme%3Ddracula%26show_icons%3Dtrue%26hide_border%3Dfalse)">
 </div>
 
 ## 🎯 Current Goals
