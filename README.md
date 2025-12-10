@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:nationalub@gmaim.com">
+  <a href="mailto:nationalub@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/july-to-lqinov-7172b4343/">
@@ -112,11 +112,11 @@ public class FullStackDeveloper {
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neKamita&theme=dracula">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neKamita&theme=dracula&utcOffset=5">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neKamita&theme=dracula&utcOffset=0">
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=false&include_all_commits=false&count_private=false">
+<img width="100%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DneKamita%26theme%3Ddracula%26show_icons%3Dtrue%26hide_border%3Dfalse">
 </div>
 
 ## 🎯 Current Goals
