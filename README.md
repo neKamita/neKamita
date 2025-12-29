@@ -133,11 +133,11 @@ public class FullStackDeveloper {
 - Mobile-responsive design with Material UI
 - RESTful API architecture
 
-### Real-Time Telegram Game Bot (CATCH RSG)
-- Developed using WebSocket protocol
-- Frontend in HTML,CSS,JS
-- Backend in Python Django
-- MongoDB for message storage
+### Exmanga Browser Extension (5000+ Users Monthly)
+- Built with Vue.js and TypeScript
+- Open source browser extension
+- Ported to Firefox as sole developer
+- Cross-browser compatibility
 
 ## Let's Connect! 🤝
 
