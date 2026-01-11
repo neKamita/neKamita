@@ -98,12 +98,25 @@ public class FullStackDeveloper {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 ## 📊 GitHub Stats
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=neKamita)](https://git.io/streak-stats)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=neKamita&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="neKamita's Trophies" />
+  </a>
 </div>
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+  </a>
+</div>>
 
 ## 🎯 Current Goals
 
