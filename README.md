@@ -102,18 +102,12 @@ public class FullStackDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=neKamita&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Behruz's GitHub Stats" />
-  </a>
-</div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neKamita&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula&hide_border=true&v=1)](https://git.io/streak-stats)
+
 </div>
 
 ## 🎯 Current Goals
