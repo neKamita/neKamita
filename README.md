@@ -102,20 +102,19 @@ public class FullStackDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neKamita&theme=dracula">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=neKamita&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Behruz's GitHub Stats" />
+  </a>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neKamita&theme=dracula">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neKamita&theme=dracula">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neKamita&theme=dracula">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neKamita&theme=dracula&utcOffset=0">
-</div>
-
-
 
 ## 🎯 Current Goals
 
