@@ -102,12 +102,7 @@ public class FullStackDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neKamita&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=1)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8&v=1)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula&hide_border=true&v=1)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=neKamita)](https://git.io/streak-stats)
 </div>
 
 ## 🎯 Current Goals
