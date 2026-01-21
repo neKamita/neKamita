@@ -103,26 +103,27 @@ public class FullStackDeveloper {
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="215" alt="Stats" />
   </a>
+  &nbsp;
   <a href="#">
-    <img align="center" src="https://placehold.co/280x180/282a36/bd93f9?text=JAVA+DEV&font=monserrat" height="180" alt="Java Placeholder" />
+    <img align="center" src="https://placehold.co/300x215/282a36/bd93f9?text=JAVA+DEV&font=monserrat" height="215" alt="Java Cube" />
   </a>
 
   <br/><br/> <a href="#">
-    <img align="center" src="https://placehold.co/280x180/bd93f9/ffffff?text=Spring+Boot&font=monserrat" height="180" alt="Spring Placeholder" />
+    <img align="center" src="https://placehold.co/300x215/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" height="215" alt="Spring Cube" />
   </a>
+  &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="215" alt="Languages" />
   </a>
 
-  <br/><br/>
-
-  <a href="#">
-    <img align="center" src="https://placehold.co/400x180/282a36/bd93f9?text=Arch+Linux+User&font=monserrat" height="180" alt="Arch Linux" />
+  <br/><br/> <a href="https://git.io/streak-stats">
+    <img align="center" src="https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="215" alt="Streak" />
   </a>
+  &nbsp;
   <a href="#">
-    <img align="center" src="https://placehold.co/400x180/bd93f9/ffffff?text=Open+Source+Fan&font=monserrat" height="180" alt="Open Source" />
+    <img align="center" src="https://placehold.co/400x215/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" height="215" alt="Arch Cube" />
   </a>
 
 </div>
