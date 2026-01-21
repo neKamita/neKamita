@@ -101,19 +101,18 @@ public class FullStackDeveloper {
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  
+
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=neKamita&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="neKamita's Trophies" />
   </a>
   
-  <br/>
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="neKamita's Stats" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="neKamita's Stats" />
   </a>
   <a href="https://git.io/streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img height="190" src="https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 
   <br/>
@@ -125,12 +124,6 @@ public class FullStackDeveloper {
   <br/>
 
   <img src="https://github-contributor-stats.vercel.app/api?username=neKamita&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-
-  <br/>
-  
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=neKamita&icon=0&color=0" alt="Visit Count" />
-  </a>
 
 </div>
 ## 🎯 Current Goals
