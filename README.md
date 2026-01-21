@@ -103,24 +103,26 @@ public class FullStackDeveloper {
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="58%" height="165" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Stats" />
   </a>
   <a href="#">
-    <img width="38%" height="165" src="https://placehold.co/300x165/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Dev Cube" />
+    <img align="center" src="https://placehold.co/280x180/282a36/bd93f9?text=JAVA+DEV&font=monserrat" height="180" alt="Java Placeholder" />
   </a>
 
-  <br/> <a href="#">
-    <img width="38%" height="165" src="https://placehold.co/300x165/bd93f9/ffffff?text=Spring+Boot&font=monserrat" alt="Spring Boot Cube" />
+  <br/><br/> <a href="#">
+    <img align="center" src="https://placehold.co/280x180/bd93f9/ffffff?text=Spring+Boot&font=monserrat" height="180" alt="Spring Placeholder" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="58%" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Languages" />
   </a>
 
-  <br/> <a href="#">
-    <img width="48%" height="165" src="https://placehold.co/400x165/282a36/bd93f9?text=Arch+Linux+User&font=monserrat" alt="Arch Linux Cube" />
+  <br/><br/>
+
+  <a href="#">
+    <img align="center" src="https://placehold.co/400x180/282a36/bd93f9?text=Arch+Linux+User&font=monserrat" height="180" alt="Arch Linux" />
   </a>
   <a href="#">
-    <img width="48%" height="165" src="https://placehold.co/400x165/bd93f9/ffffff?text=Open+Source+Fan&font=monserrat" alt="Open Source Cube" />
+    <img align="center" src="https://placehold.co/400x180/bd93f9/ffffff?text=Open+Source+Fan&font=monserrat" height="180" alt="Open Source" />
   </a>
 
 </div>
