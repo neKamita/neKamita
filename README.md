@@ -98,33 +98,6 @@ public class FullStackDeveloper {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  </a>
-  <a href="#">
-    <img align="center" width="48%" src="https://placehold.co/600x360/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Cube" />
-  </a>
-
-  <a href="#">
-    <img align="center" width="48%" src="https://placehold.co/600x360/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
-  </a>
-
-
-  <a href="https://github.com/neKamita">
-    <img align="center" width="48%" src="https://github-contributor-stats.vercel.app/api?username=neKamita&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Repos" />
-  </a>
-  <a href="#">
-    <img align="center" width="48%" src="https://placehold.co/600x360/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" alt="Arch Cube" />
-  </a>
-
-</div>
 ## 🎯 Current Goals
 
 - 🔭 Mastering Full Stack Development with React and Spring Boot
