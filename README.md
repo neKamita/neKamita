@@ -122,12 +122,6 @@ public class FullStackDeveloper {
   </a>
 
 </div>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-  </a>
-</div>
 ## 🎯 Current Goals
 
 - 🔭 Mastering Full Stack Development with React and Spring Boot
