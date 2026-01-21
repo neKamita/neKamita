@@ -108,13 +108,13 @@ public class FullStackDeveloper {
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
 
