@@ -106,7 +106,7 @@ public class FullStackDeveloper {
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="220" width="58%" alt="Stats" />
   </a>
   <a href="#">
-    <img align="center" src="https://placehold.co/300x220/282a36/bd93f9?text=JAVA+DEV&font=monserrat" height="220" width="38%" alt="Java Cube" />
+    <img align="center" src="https://placehold.co/500x400/282a36/bd93f9?text=JAVA+DEV&font=monserrat" height="220" width="38%" alt="Java Cube" />
   </a>
 
   <br/><br/>
