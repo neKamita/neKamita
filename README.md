@@ -98,20 +98,33 @@ public class FullStackDeveloper {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+    <img width="58%" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   </a>
+  <a href="#">
+    <img width="38%" src="https://placehold.co/300x165/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Placeholder 1" />
+  </a>
+
+  <br/>
+
+  <a href="#">
+    <img width="38%" src="https://placehold.co/300x165/bd93f9/ffffff?text=Spring+Boot&font=monserrat" alt="Placeholder 2" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Langs" />
+  </a>
+
+  <br/>
+
   <a href="https://git.io/streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
+    <img width="48%" src="https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" />
   </a>
-  
-  <br/> <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Langs" />
-  </a>
-  
-  <a href="https://tulkinov-behruz-resume.netlify.app/">
-    <img height="180" src="https://placehold.co/495x195/282a36/bd93f9?text=Contact+Me&font=monserrat" alt="Placeholder" />
+  <a href="https://github.com/neKamita">
+    <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=neKamita&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Repos" />
   </a>
 
 </div>
