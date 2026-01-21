@@ -98,14 +98,14 @@ public class FullStackDeveloper {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=neKamita&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="neKamita's Trophies" />
   </a>
   
+  <br/>
   <br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -120,7 +120,10 @@ public class FullStackDeveloper {
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
   </a>
-
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=neKamita&label=Profile%20views&color=bd93f9&style=flat-square" alt="neKamita views" />
 </div>
 ## 🎯 Current Goals
 
