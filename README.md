@@ -111,9 +111,7 @@ public class FullStackDeveloper {
     <img src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="neKamita's Stats" />
   </a>
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
+![GitHub Stats](https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true)
 </div>
 
 <div align="center">
