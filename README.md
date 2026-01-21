@@ -103,24 +103,31 @@ public class FullStackDeveloper {
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="220" width="58%" alt="Stats" />
+    <img align="center" width="58%" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   </a>
+  &nbsp;
   <a href="#">
-    <img align="center" src="https://placehold.co/500x400/282a36/bd93f9?text=JAVA+DEV&font=monserrat" height="420" width="38%" alt="Java Cube" />
+    <img align="center" width="38%" src="https://placehold.co/600x360/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Cube" />
   </a>
 
+  <br/><br/>
+
   <a href="#">
-    <img align="center" src="https://placehold.co/300x220/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" height="420" width="100%" alt="Spring Cube" />
+    <img align="center" width="38%" src="https://placehold.co/600x360/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
   </a>
+  &nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="320" width="100%" alt="Languages" />
+    <img align="center" width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
   </a>
+
+  <br/><br/>
 
   <a href="https://github.com/neKamita">
-    <img align="center" src="https://github-contributor-stats.vercel.app/api?username=neKamita&limit=5&theme=dracula&combine_all_yearly_contributions=true" height="420" width="100%" alt="Top Repos" />
+    <img align="center" width="58%" src="https://github-contributor-stats.vercel.app/api?username=neKamita&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Repos" />
   </a>
+  &nbsp;
   <a href="#">
-    <img align="center" src="https://placehold.co/300x220/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" height="220" width="38%" alt="Arch Cube" />
+    <img align="center" width="38%" src="https://placehold.co/600x360/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" alt="Arch Cube" />
   </a>
 
 </div>
