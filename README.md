@@ -103,7 +103,7 @@ public class FullStackDeveloper {
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="215" alt="Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" height="415" alt="Stats" />
   </a>
   <a href="#">
     <img align="center" src="https://placehold.co/300x215/282a36/bd93f9?text=JAVA+DEV&font=monserrat" height="615" alt="Java Cube" />
@@ -113,7 +113,7 @@ public class FullStackDeveloper {
     <img align="center" src="https://placehold.co/300x215/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" height="515" alt="Spring Cube" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="215" alt="Languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="415" alt="Languages" />
   </a>
 
   <br/><br/> <a href="https://git.io/streak-stats">
