@@ -106,11 +106,11 @@ public class FullStackDeveloper {
     <img align="center" width="58%" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   </a>
   <a href="#">
-    <img align="center" width="38%" src="https://placehold.co/600x360/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Cube" />
+    <img align="center" width="58%" src="https://placehold.co/600x360/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Cube" />
   </a>
 
   <a href="#">
-    <img align="center" width="38%" src="https://placehold.co/600x360/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
+    <img align="center" width="58%" src="https://placehold.co/600x360/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
@@ -121,7 +121,7 @@ public class FullStackDeveloper {
     <img align="center" width="58%" src="https://github-contributor-stats.vercel.app/api?username=neKamita&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Repos" />
   </a>
   <a href="#">
-    <img align="center" width="38%" src="https://placehold.co/600x360/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" alt="Arch Cube" />
+    <img align="center" width="58%" src="https://placehold.co/600x360/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" alt="Arch Cube" />
   </a>
 
 </div>
