@@ -110,9 +110,8 @@ public class FullStackDeveloper {
   <br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="neKamita's Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="neKamita's Stats" />
   </a>
-  
   <a href="https://git.io/streak-stats">
     <img height="180" src="https://streak-stats.demolab.com?user=neKamita&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
@@ -120,12 +119,19 @@ public class FullStackDeveloper {
   <br/>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neKamita&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </a>
+  
+  <br/>
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=neKamita&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 
   <br/>
   
-  <img src="https://komarev.com/ghpvc/?username=neKamita&label=Profile%20views&color=bd93f9&style=flat-square" alt="neKamita views" />
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=neKamita&icon=0&color=0" alt="Visit Count" />
+  </a>
+
 </div>
 ## 🎯 Current Goals
 
