@@ -107,7 +107,7 @@ public class FullStackDeveloper {
   </a>
 
   <a href="#">
-    <img align="center" width="48%" height="450" src="https://placehold.co/600x250/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
+    <img align="center" width="65%" height="450" src="https://placehold.co/600x250/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
   </a><a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
     <img align="center" width="48%" height="350" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
   </a>
