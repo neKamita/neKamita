@@ -111,9 +111,7 @@ public class FullStackDeveloper {
   </a>
 
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img align="center" width="48%" height="350" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=neKamita&theme=dracula&hide_border=true" alt="Streak" />
-  </a><a href="#">
-    <img align="center" width="48%" height="350" src="https://placehold.co/600x250/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" alt="Arch Cube" />
+    <img align="center" width="100%" height="400" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=neKamita&theme=dracula&hide_border=true" alt="Streak" />
   </a>
 
 </div>
