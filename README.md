@@ -111,7 +111,7 @@ public class FullStackDeveloper {
   </a>
 
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img align="center" width="100%" height="370" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=neKamita&theme=dracula&hide_border=true" alt="Streak" />
+    <img align="center" width="100%" height="380" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=neKamita&theme=dracula&hide_border=true" alt="Streak" />
   </a>
 
 </div>
