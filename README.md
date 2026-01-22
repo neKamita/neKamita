@@ -105,27 +105,21 @@ public class FullStackDeveloper {
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
     <img align="center" width="58%" src="https://github-readme-stats-fast.vercel.app/api?username=neKamita&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   </a>
-  &nbsp;
   <a href="#">
     <img align="center" width="38%" src="https://placehold.co/600x360/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Cube" />
   </a>
 
-  <br/><br/>
-
   <a href="#">
     <img align="center" width="38%" src="https://placehold.co/600x360/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
   </a>
-  &nbsp;
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
     <img align="center" width="58%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
   </a>
 
-  <br/><br/>
 
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
     <img align="center" width="58%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=neKamita&theme=dracula&hide_border=true" alt="Streak" />
   </a>
-  &nbsp;
   <a href="#">
     <img align="center" width="38%" src="https://placehold.co/600x360/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" alt="Arch Cube" />
   </a>
