@@ -103,9 +103,7 @@ public class FullStackDeveloper {
 <div align="center">
 
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img align="center" width="48%" height="350" src="https://github-readme-stats-fast.vercel.app/api?username=neKamita&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-  </a><a href="#">
-    <img align="center" width="48%" height="350" src="https://placehold.co/600x250/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Cube" />
+    <img align="center" width="100%" height="350" src="https://github-readme-stats-fast.vercel.app/api?username=neKamita&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   </a>
 
   <a href="#">
