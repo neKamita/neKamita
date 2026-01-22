@@ -103,21 +103,21 @@ public class FullStackDeveloper {
 <div align="center">
 
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img align="center" width="50%" height="250" src="https://github-readme-stats-fast.vercel.app/api?username=neKamita&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+    <img align="center" width="48%" height="350" src="https://github-readme-stats-fast.vercel.app/api?username=neKamita&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
   </a><a href="#">
-    <img align="center" width="50%" height="250" src="https://placehold.co/600x250/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Cube" />
+    <img align="center" width="48%" height="350" src="https://placehold.co/600x250/282a36/bd93f9?text=JAVA+DEV&font=monserrat" alt="Java Cube" />
   </a>
 
   <a href="#">
-    <img align="center" width="50%" height="250" src="https://placehold.co/600x250/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
+    <img align="center" width="48%" height="350" src="https://placehold.co/600x250/bd93f9/ffffff?text=SPRING+BOOT&font=monserrat" alt="Spring Cube" />
   </a><a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img align="center" width="50%" height="250" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
+    <img align="center" width="48%" height="350" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
   </a>
 
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
-    <img align="center" width="50%" height="250" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=neKamita&theme=dracula&hide_border=true" alt="Streak" />
+    <img align="center" width="48%" height="350" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=neKamita&theme=dracula&hide_border=true" alt="Streak" />
   </a><a href="#">
-    <img align="center" width="50%" height="250" src="https://placehold.co/600x250/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" alt="Arch Cube" />
+    <img align="center" width="48%" height="350" src="https://placehold.co/600x250/282a36/bd93f9?text=ARCH+LINUX&font=monserrat" alt="Arch Cube" />
   </a>
 
 </div>
