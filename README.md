@@ -107,7 +107,7 @@ public class FullStackDeveloper {
   </a>
 
   <a href="#">
-    <img align="center" width="100%" height="400" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
+    <img align="center" width="100%" height="500" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neKamita&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
   </a>
 
   <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">
